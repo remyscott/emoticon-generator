@@ -14,11 +14,6 @@ print("__________['']")
 print("|||||||||||``  =('o') =<'0'> ")
 
 
-      
-
-
-
-
 gen_random_emoticon_face()
 time.sleep(.01)
 gen_random_emoticon_face()
